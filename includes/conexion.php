@@ -1,9 +1,9 @@
 <?php
 // Configuración de conexión a la base de datos
 $host = 'localhost';
-$db = 'cuidomiciudad';
-$user = 'root';
-$pass = '';
+$db = 'cuidamiciudad';
+$user = 'cuidamiciudad';
+$pass = 'micuidad123';
 $charset = 'utf8mb4';
 
 try {
