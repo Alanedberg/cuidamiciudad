@@ -1,6 +1,6 @@
 <?php
 // Configuración de conexión a la base de datos
-$host = 'localhost';
+$host = 'mysqlXXX.hostinger.com';
 $db = 'u245718453_cuidamiciudad';
 $user = 'u245718453_cuidamiciudad';
 $pass = 'Micuidad123';
