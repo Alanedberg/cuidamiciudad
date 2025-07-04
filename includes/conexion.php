@@ -3,7 +3,7 @@
 $host = 'localhost';
 $db = 'u245718453_cuidamiciudad';
 $user = 'u245718453_cuidamiciudad';
-$pass = 'micuidad123';
+$pass = 'Micuidad123';
 $charset = 'utf8mb4';
 
 try {
